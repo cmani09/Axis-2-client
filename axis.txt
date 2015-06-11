@@ -1,2 +1,4 @@
 hi Testing Jenkkkkkkkkkins :)
 Feeeeeeling Gooooooooooooooooood as Jenskins started working as expected.
+
+Testing again poll scm it means this is using cron stylle schedule
